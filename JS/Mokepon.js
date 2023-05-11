@@ -4,3 +4,5 @@ function selectPlayerMokepon(){
 
 let buttonMokeponPlayer = document.getElementById('button-mokepon')
 buttonMokeponPlayer.addEventListener('click', selectPlayerMokepon)
+
+window.addEventListener()
